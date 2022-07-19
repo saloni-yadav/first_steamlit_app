@@ -1,9 +1,9 @@
 import streamlit
 streamlit.title("My Parents New Healthy Diner")
 streamlit.header("🥣🥗 BREAKFAST MENU 🥑🍞")
-streamlit.text("Oats")
-streamlit.text("Peanuts")
-streamlit.text("Eggs")
+streamlit.text("Oats and Milk")
+streamlit.text("Bread and Peanut butter")
+streamlit.text("Eggs and omlette")
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 import pandas
