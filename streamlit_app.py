@@ -40,7 +40,7 @@ except URLError as e:
 
 
 #dont run anything past this while we troubleshoot
-streamlit.stop()
+#streamlit.stop()
 
 #using python connector
 
